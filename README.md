@@ -33,7 +33,7 @@ Currently, I'm deepening my knowledge in the following areas:
 Here are some projects I have developed or am currently working on to apply what I've learned:
 
 ### [Gamelist Project](https://github.com/viniciusmoraesz/Gamelist_Project)
-- A simple project created for the first work in college, using HTML, CSS, and a bit of JavaScript. It's a basic **game list** application.
+- A simple project created for the first work in college, using HTML, CSS, and a bit of JavaScript. It's a basic **game review** website.
 
 ## 📬 How to Reach Me
 
