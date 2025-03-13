@@ -35,6 +35,10 @@ Here are some projects I have developed or am currently working on to apply what
 ### [Gamelist Project](https://github.com/viniciusmoraesz/Gamelist_Project)
 - A simple project created for the first work in college, using HTML, CSS, and a bit of JavaScript. It's a basic **game review** website.
 
+### [Basic Banking System](https://github.com/viniciusmoraesz/Sistema_Bancario_Basico)  
+- A simple **banking system** project developed as part of a bootcamp. Built using **Python**, it performs basic banking operations like deposit, withdrawal, and balance inquiry. Ideal for beginners looking to understand the fundamentals of financial systems.
+
+
 ## 📬 How to Reach Me
 
 - **Email**: [vini0048@gmail.com](mailto:vini0048@gmail.com)
