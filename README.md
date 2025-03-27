@@ -11,7 +11,7 @@ I'm 21 years old and currently studying Software Engineering in my **second year
 - CSS (Intermediate)
 - JavaScript (Basic)
 - Python (Intermediate)
-- Java (Currently learning)
+- Java (Currently learning/Intermediate)
 
 **Methodologies**:
 - SCRUM (Currently learning)
@@ -19,7 +19,7 @@ I'm 21 years old and currently studying Software Engineering in my **second year
 **Tools & Technologies**:
 - Git and GitHub
 - VS Code
-- Python (Flask, Django - depending on the focus of my learning)
+- Intellij
 
 ## 📚 What I'm Learning
 
