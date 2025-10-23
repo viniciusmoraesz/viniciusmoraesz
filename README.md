@@ -93,7 +93,7 @@ A console-based banking system developed during a Python bootcamp. Implements co
 ## 📬 Let's Connect!
 
 - 📧 **Email:** vini0048@gmail.com
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/viniciusmoraesz)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/vinicius-vianna-916b02288/)
 - 🐱 **GitHub:** You're already here! Feel free to explore my repositories
 
 ---
