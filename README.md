@@ -62,11 +62,17 @@ A complete web application for managing industrial projects with modern architec
 
 ---
 
-### 🎮 Gamelist Project
-A game review website created for university coursework, showcasing frontend development skills with HTML, CSS, and JavaScript. Features responsive design and interactive elements for game reviews and ratings.
+### 🎮 [Gamelist Project](https://github.com/viniciusmoraesz/Gamelist_Project)
+**My First University Project - Frontend Fundamentals**
 
-### 🏦 Basic Banking System
-A console-based banking system developed during a Python bootcamp. Implements core banking operations including deposits, withdrawals, balance inquiries, and transaction history. Demonstrates OOP principles and financial system fundamentals.
+A game review website developed as my inaugural college project, demonstrating foundational web development skills. Built entirely with vanilla HTML and CSS, this project showcases clean design principles, responsive layout techniques, and semantic markup structure.
+
+---
+
+### 🌱 [AgroConnect](https://github.com/viniciusmoraesz/AgroConnect)
+**Agricultural Climate Resilience Platform**
+
+A comprehensive web platform designed to help farmers tackle extreme weather conditions and climate challenges. Built with modern React architecture using JavaScript, this application provides essential tools and resources for agricultural resilience, featuring weather monitoring, climate data visualization, and user-friendly interface optimized for both mobile and desktop.
 
 ## 📚 Currently Learning
 
