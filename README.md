@@ -1,49 +1,104 @@
 # Hi, I'm Vinicius 👋
 
 ## 🎓 About Me
+I'm 21 years old and currently studying **Software Engineering** in my second year of university. Throughout my studies, I have developed skills in various programming languages and technologies. I'm passionate about building scalable applications and learning new technologies to solve real-world problems.
 
-I'm 21 years old and currently studying Software Engineering in my **second year** of university. Throughout my studies, I have developed skills in various programming languages and technologies. At the moment, I'm focusing on deepening my knowledge of **Java** and **Object-Oriented Programming (OOP)**, and I plan to learn **Oracle** for database management in the near future.
+## 🚀 Skills & Technologies
 
-## 🚀 Skills
+### Programming Languages
+- **Java** (Intermediate) - OOP, Spring, JAX-RS
+- **Python** (Intermediate) - Django, FastAPI (Learning)
+- **JavaScript** (Intermediate) - React, Node.js
+- **HTML/CSS** (Advanced) - Responsive Design, Styled Components
 
-**Programming Languages**:
-- HTML (Intermediate)
-- CSS (Intermediate)
-- JavaScript (Basic)
-- Python (Intermediate)
-- Java (Currently learning/Intermediate)
+### Frameworks & Libraries
+- **React** - Frontend development with hooks and context
+- **FastAPI** (Currently Learning) - Modern Python web framework
+- **JAX-RS (Jersey)** - RESTful web services in Java
+- **Styled Components** - CSS-in-JS for React
 
-**Methodologies**:
-- SCRUM (Currently learning)
+### Databases & Tools
+- **PostgreSQL** - Relational database management
+- **Git & GitHub** - Version control and collaboration
+- **Maven** - Java project management
+- **Vite** - Modern build tool for frontend
+- **VS Code & IntelliJ** - Development environments
 
-**Tools & Technologies**:
-- Git and GitHub
-- VS Code
-- Intellij
+### Methodologies & Concepts
+- **Object-Oriented Programming (OOP)** ✅
+- **SCRUM** ✅ - Agile project management
+- **CRUD Operations** ✅ - Create, Read, Update, Delete
+- **RESTful APIs** 🔄 (Currently deepening knowledge)
+- **JWT Authentication** 🔄 - Secure token-based auth
+- **Database Design** 🔄 - Relational modeling and optimization
 
-## 📚 What I'm Learning
+## 💻 Featured Projects
 
-Currently, I'm deepening my knowledge in the following areas:
-- **Java**: Object-Oriented Programming (OOP) concepts and application.
-- **Object-Oriented Programming (OOP)**: Learning principles and patterns to design clean and scalable software.
-- **Oracle**: Preparing to learn database management with Oracle in the future.
-- **Agile methodologies**: SCRUM for project management and teamwork.
+### 🏭 [Sistema Inova Industria](https://github.com/viniciusmoraesz/INOVA_INDUSTRIA)
+**Full-Stack Industrial Project Management System**
 
-## 💻 Projects
+A complete web application for managing industrial projects with modern architecture separating frontend and backend.
 
-Here are some projects I have developed or am currently working on to apply what I've learned:
+**🛠️ Technologies Used:**
+- **Frontend:** React 18, Vite, Styled Components, React Router
+- **Backend:** Java 21, JAX-RS (Jersey), JWT Authentication
+- **Database:** PostgreSQL with custom enums and relationships
+- **Architecture:** REST API with role-based access control
 
-### [Gamelist Project](https://github.com/viniciusmoraesz/Gamelist_Project)
-- A simple project created for the first work in college, using HTML, CSS, and a bit of JavaScript. It's a basic **game review** website.
+**✨ Key Features:**
+- 🏢 Complete company management (CRUD)
+- 👥 Client management with role-based access (CLIENT, ADMIN, SUPER_ADMIN)
+- 📊 Project management with status tracking and priorities
+- 🔐 Secure JWT authentication system
+- 🎯 Modern responsive UI with gradient designs
+- 📱 Role-protected routes and components
 
-### [Basic Banking System](https://github.com/viniciusmoraesz/Sistema_Bancario_Basico)
-- A simple **banking system** project developed as part of a bootcamp. Built using **Python**, it performs basic banking operations like deposit, withdrawal, and balance inquiry. Ideal for beginners looking to understand the fundamentals of financial systems.
-
-## 📬 How to Reach Me
-
-- **Email**: [vini0048@gmail.com](mailto:vini0048@gmail.com)
+**🔧 Technical Highlights:**
+- Implemented 3-tier architecture (Frontend, Backend, Database)
+- Created custom PostgreSQL enums for business logic
+- Built secure authentication with Argon2 password hashing
+- Developed reusable React components with Context API
+- Applied SOLID principles and clean code practices
 
 ---
 
-I'm always open to learning, sharing ideas, and collaborating on interesting projects. Feel free to reach out! 💡
+### 🎮 Gamelist Project
+A game review website created for university coursework, showcasing frontend development skills with HTML, CSS, and JavaScript. Features responsive design and interactive elements for game reviews and ratings.
+
+### 🏦 Basic Banking System
+A console-based banking system developed during a Python bootcamp. Implements core banking operations including deposits, withdrawals, balance inquiries, and transaction history. Demonstrates OOP principles and financial system fundamentals.
+
+## 📚 Currently Learning
+
+- **FastAPI** - Modern, fast web framework for building APIs with Python
+- **Advanced API Development** - RESTful best practices, documentation, testing
+- **Microservices Architecture** - Scalable system design patterns
+- **Advanced Database Optimization** - Query performance and indexing
+
+## 📊 GitHub Stats
+
+![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmoraesz&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmoraesz&layout=compact&theme=radical)
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📬 Let's Connect!
+
+- 📧 **Email:** vini0048@gmail.com
+- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/viniciusmoraesz)
+- 🐱 **GitHub:** You're already here! Feel free to explore my repositories
+
+---
+
+💡 **Always open to learning, sharing ideas, and collaborating on interesting projects. Let's build something amazing together!**
+
+⭐ **If you find my projects interesting, don't forget to star them!**
 
