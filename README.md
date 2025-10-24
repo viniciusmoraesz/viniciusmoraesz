@@ -7,7 +7,7 @@ I'm 21 years old and currently studying **Software Engineering** in my second ye
 
 ### Programming Languages
 - **Java** - OOP, Spring, JAX-RS
-- **Python** - Django, FastAPI (Learning)
+- **Python** - Django, FastAPI
 - **JavaScript** - React, Node.js
 - **HTML/CSS**  - Responsive Design, Styled Components
 
