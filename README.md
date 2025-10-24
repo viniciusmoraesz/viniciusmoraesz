@@ -6,14 +6,14 @@ I'm 21 years old and currently studying **Software Engineering** in my second ye
 ## 🚀 Skills & Technologies
 
 ### Programming Languages
-- **Java** (Intermediate) - OOP, Spring, JAX-RS
-- **Python** (Intermediate) - Django, FastAPI (Learning)
-- **JavaScript** (Intermediate) - React, Node.js
-- **HTML/CSS** (Advanced) - Responsive Design, Styled Components
+- **Java** - OOP, Spring, JAX-RS
+- **Python** - Django, FastAPI (Learning)
+- **JavaScript** - React, Node.js
+- **HTML/CSS**  - Responsive Design, Styled Components
 
 ### Frameworks & Libraries
 - **React** - Frontend development with hooks and context
-- **FastAPI** (Currently Learning) - Modern Python web framework
+- **FastAPI** - Modern Python web framework
 - **JAX-RS (Jersey)** - RESTful web services in Java
 - **Styled Components** - CSS-in-JS for React
 
@@ -28,7 +28,7 @@ I'm 21 years old and currently studying **Software Engineering** in my second ye
 - **Object-Oriented Programming (OOP)** ✅
 - **SCRUM** ✅ - Agile project management
 - **CRUD Operations** ✅ - Create, Read, Update, Delete
-- **RESTful APIs** 🔄 (Currently deepening knowledge)
+- **RESTful APIs** 🔄
 - **JWT Authentication** 🔄 - Secure token-based auth
 - **Database Design** 🔄 - Relational modeling and optimization
 
